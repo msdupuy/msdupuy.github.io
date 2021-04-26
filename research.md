@@ -89,7 +89,7 @@ The Fourier transform of $K$ is then
 $$
   \widehat K(\omega) = \lim_{\eta \to 0^{+}} \Big\langle \psi_{0}, V_{\mathcal O} \Big(\omega +i\eta - (H-E_0)\Big)^{-1} V_{\mathcal P} \psi_{0}\Big\rangle - \Big\langle \psi_{0},V_{\mathcal P} \Big(\omega +i\eta + (H-E_0)\Big)^{-1} V_{\mathcal O} \psi_{0}\Big\rangle.
 $$
-The above formula is in practice approximated by taking a positive $\eta$ _and_ by truncating the space to a finite region $(-L,L)^d$. This necessarily yields a singular approximation of the linear response function $\widehat{K}$. In the paper, the regularity of the response function $\widehat{K}$ is determined, depending on the decay of the potential $V$. Moreover, the relationship between $\eta$ and $L$ guaranteeing the convergence of the approximation is shown, supported by numerical experiments.
+The above formula is in practice approximated by taking a positive $\eta$  _and_ by truncating the space to a finite region $(-L,L)^d$. This necessarily yields a singular approximation of the linear response function $\widehat{K}$. In the paper, the regularity of the response function $\widehat{K}$ is determined, depending on the decay of the potential $V$. Moreover, the relationship between $\eta$ and $L$ guaranteeing the convergence of the approximation is shown, supported by numerical experiments.
 
 ### Publications
 
