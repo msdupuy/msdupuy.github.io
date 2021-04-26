@@ -79,7 +79,7 @@ $$
 $$
 the linear response function $K$ defined by
 $$
-    \langle  \psi(t), V_{\mathcal O} \psi(t) \rangle = \lela \psi_{0}, V_{\mathcal O}  \psi_{0}\rira + \varepsilon (K \ast f)(t) + \mathcal{O}(\varepsilon^2),
+    \langle  \psi(t), V_{\mathcal O} \psi(t) \rangle = \Big\langle \psi_{0}, V_{\mathcal O}  \psi_{0}\Big\rangle + \varepsilon (K \ast f)(t) + \mathcal{O}(\varepsilon^2),
 $$
 is given by the Kubo formula
 $$
