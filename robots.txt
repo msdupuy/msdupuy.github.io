@@ -1,0 +1,4 @@
+Sitemap: https://msdupuy.github.io/website/sitemap.xml
+
+User-agent: *
+Disallow:
