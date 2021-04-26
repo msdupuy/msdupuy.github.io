@@ -1,4 +1,4 @@
-Sitemap: https://msdupuy.github.io/website/sitemap.xml
+Sitemap: https://msdupuy.github.io/sitemap.xml
 
 User-agent: *
 Disallow:
