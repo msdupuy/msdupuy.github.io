@@ -16,7 +16,7 @@ ignore = ["node_modules/"]
 generate_rss = true
 website_title = "Mi-Song Dupuy"
 website_descr = "Mi-Song Dupuy"
-website_url   = "https://msdupuy.github.io/website/"
+website_url   = "https://msdupuy.github.io/"
 +++
 
 <!--
