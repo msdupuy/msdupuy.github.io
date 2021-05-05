@@ -1,13 +1,13 @@
 <!doctype html>
 <html lang="en">
 <head>
+  {{isdef title}} <title>{{fill title}}</title>  {{end}}
+  <meta name="google-site-verification" content="PGSWV2hHDapcY2zvP_iZgXYCVqasqxrmMalH_w8I_W8">  
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="google-site-verification" content="PGSWV2hHDapcY2zvP_iZgXYCVqasqxrmMalH_w8I_W8">  
   {{if hasmath}} {{insert head_katex.html }}     {{end}}
   {{if hascode}} {{insert head_highlight.html }}   {{end}}
   {{insert style.html}}
-  {{isdef title}} <title>{{fill title}}</title>  {{end}}
 </head>
 <body>
 {{insert sidebar.html}}
