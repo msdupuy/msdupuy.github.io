@@ -11,10 +11,10 @@
 ## Preprints
 
   * Mi-Song Dupuy, Antoine Levitt, [Finite-size effects in response functions of molecular systems](https://hal.archives-ouvertes.fr/hal-03145143), 2021.
-  * Mi-Song Dupuy, [Variational projector-augmented wave method: a full-potential approach for electronic structure calculations in solid-state physics](https://arxiv.org/abs/2002.00512), 2020.
   * Maxime Chupin, Mi-Song Dupuy, Guillaume Legendre, Eric Séré, [Convergence analysis of adaptive DIIS algorithms with application to electronic ground state calculations](https://hal.archives-ouvertes.fr/hal-02492983/document), 2020.
 
 ## Published articles
+  * Mi-Song Dupuy, [Variational projector-augmented wave method: a full-potential approach for electronic structure calculations in solid-state physics](https://arxiv.org/abs/2002.00512), accepted in _Journal of Computational Physics_, 2021.
   * Mi-Song Dupuy, Gero Friesecke, [Inversion symmetry of singular values and a new orbital ordering method in tensor train approximations for quantum chemistry](https://epubs.siam.org/doi/10.1137/20M1320122), _SIAM Journal on Scientific Computing_, 2021.
   * Mi-Song Dupuy, [Projector augmented-wave method: analysis in a one-dimensional setting](https://doi.org/10.1051/m2an/2019017), _ESAIM: M2AN_, 2020.
   * Mi-Song Dupuy, [Discretization Error Cancellation in the Plane-Wave Approximation of Periodic Hamiltonians with Coulomb Singularities](https://link.springer.com/article/10.1007/s10915-019-00959-6), _Journal of Scientific Computing_, 2019.
