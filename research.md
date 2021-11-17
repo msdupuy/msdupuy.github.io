@@ -46,7 +46,7 @@ Another approach consists in introducing an invertible operator $T$ acting local
 
 * Xavier Blanc, Eric Cancès, Mi-Song Dupuy, [Variational projector augmented-wave method : theoretical analysis and preliminary numerical results](https://link.springer.com/article/10.1007/s00211-019-01082-2), _Numerische Mathematik_, 2019.
 * Mi-Song Dupuy, [Projector augmented-wave method: analysis in a one-dimensional setting](https://doi.org/10.1051/m2an/2019017), _ESAIM: M2AN_, 2020.
-* Mi-Song Dupuy, [Variational projector-augmented wave method: a full-potential approach for electronic structure calculations in solid-state physics](https://arxiv.org/abs/2002.00512), 2020.
+* Mi-Song Dupuy, [Variational projector-augmented wave method: a full-potential approach for electronic structure calculations in solid-state physics](https://arxiv.org/abs/2002.00512), _Journal of Computational Physics_, 2021.
 
 
 
@@ -69,7 +69,7 @@ For both variants, we prove local linear convergence and superlinear convergence
 
 ### Publication
 
-* Maxime Chupin, Mi-Song Dupuy, Guillaume Legendre, Eric Séré, [Convergence analysis of adaptive DIIS algorithms with application to electronic ground state calculations](https://hal.archives-ouvertes.fr/hal-02492983/document), (2020).
+* Maxime Chupin, Mi-Song Dupuy, Guillaume Legendre, Eric Séré, [Convergence analysis of adaptive DIIS algorithms with application to electronic ground state calculations](https://hal.archives-ouvertes.fr/hal-02492983/document), _ESIAM: M2AN_, (2021).
 
 ## Linear response in quantum chemistry
 

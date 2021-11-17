@@ -7,6 +7,6 @@ I am a maître de conférences (associate professor) at the [Laboratoire Jacques
 
 My research focuses on the numerical analysis of methods in molecular systems or materials.
 
-You can reach me at firstname.lastname@ljll.math.upmc.fr
+You can reach me at firstname.lastname@sorbonne-universite.fr
 
 [Github](https://github.com/msdupuy), [ArXiv](https://arxiv.org/search/?query=dupuy%2C+mi-song&searchtype=all&source=header).

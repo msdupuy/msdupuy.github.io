@@ -11,7 +11,7 @@
 ## Preprints
 
   * Mi-Song Dupuy, Antoine Levitt, [Finite-size effects in response functions of molecular systems](https://hal.archives-ouvertes.fr/hal-03145143), 2021.
-  * Maxime Chupin, Mi-Song Dupuy, Guillaume Legendre, Eric Séré, [Convergence analysis of adaptive DIIS algorithms with application to electronic ground state calculations](https://hal.archives-ouvertes.fr/hal-02492983/document), 2020.
+  * Maxime Chupin, Mi-Song Dupuy, Guillaume Legendre, Eric Séré, [Convergence analysis of adaptive DIIS algorithms with application to electronic ground state calculations](https://hal.archives-ouvertes.fr/hal-02492983/document), _ESIAM:M2AN_ 2021.
 
 ## Published articles
   * Mi-Song Dupuy, [Variational projector-augmented wave method: a full-potential approach for electronic structure calculations in solid-state physics](https://arxiv.org/abs/2002.00512), accepted in _Journal of Computational Physics_, 2021.
