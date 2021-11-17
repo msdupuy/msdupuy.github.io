@@ -42,7 +42,7 @@ Another approach consists in introducing an invertible operator $T$ acting local
 
 \figenv{Comparison between a direct discretization and the VPAW method for $-\Delta - \frac{1}{|x-R|}-\frac{1}{|x+R|}$ with periodic boundary conditions}{VPAW_vs_direct.png}{width:80%}
 
-### Publication
+### Publications
 
 * Xavier Blanc, Eric Cancès, Mi-Song Dupuy, [Variational projector augmented-wave method : theoretical analysis and preliminary numerical results](https://link.springer.com/article/10.1007/s00211-019-01082-2), _Numerische Mathematik_, 2019.
 * Mi-Song Dupuy, [Projector augmented-wave method: analysis in a one-dimensional setting](https://doi.org/10.1051/m2an/2019017), _ESAIM: M2AN_, 2020.
@@ -91,6 +91,6 @@ $$
 $$
 The above formula is in practice approximated by taking a positive $\eta$  _and_ by truncating the space to a finite region $(-L,L)^d$. This necessarily yields a singular approximation of the linear response function $\widehat{K}$. In the paper, the regularity of the response function $\widehat{K}$ is determined, depending on the decay of the potential $V$. Moreover, the relationship between $\eta$ and $L$ guaranteeing the convergence of the approximation is shown, supported by numerical experiments.
 
-### Publications
+### Publication
 
 * Mi-Song Dupuy, Antoine Levitt, [Finite-size effects in response functions of molecular systems](https://hal.archives-ouvertes.fr/hal-03145143), 2021.
