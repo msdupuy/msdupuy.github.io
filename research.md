@@ -93,4 +93,4 @@ The above formula is in practice approximated by taking a positive $\eta$  _and_
 
 ### Publication
 
-* Mi-Song Dupuy, Antoine Levitt, [Finite-size effects in response functions of molecular systems](https://hal.archives-ouvertes.fr/hal-03145143), 2021.
+* Mi-Song Dupuy, Antoine Levitt, [Finite-size effects in response functions of molecular systems](https://hal.archives-ouvertes.fr/hal-03145143), accepted in _SMAI Journal of Computational Mathematics_, 2022.
