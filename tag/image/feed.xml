@@ -9,14 +9,14 @@
 
   <channel>
     <title>
-      <![CDATA[  {{fd2rss website_title}}  ]]>
+      <![CDATA[  Mi-Song Dupuy  ]]>
     </title>
-    <link> {{website_url}} </link>
+    <link> https://msdupuy.github.io/ </link>
     <description>
-      <![CDATA[  {{fd2rss website_description}}  ]]>
+      <![CDATA[  Website of Mi-Song Dupuy  ]]>
     </description>
     <atom:link
-      href="{{fd_rss_feed_url}}"
+      href="https://msdupuy.github.io/feed.xml"
       rel="self"
       type="application/rss+xml" />
 
