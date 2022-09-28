@@ -3,7 +3,7 @@
 
 # About me
 
-I am a maître de conférences (associate professor) at the [Laboratoire Jacques-Louis LIONS](https://www.ljll.math.upmc.fr/) in Sorbonne Université (Paris, France) since September 2021. I was previously a postdoctoral researcher in TU Munich (Germany) with [Gero Friesecke](https://www-m7.ma.tum.de/bin/view/Analysis/GeroFriesecke) on the grant SFB/TRR 109 [Discretization in Geometry and Dynamics](https://www.discretization.de/). I did my PhD in Université Paris-Diderot under the supervision of [Xavier Blanc](https://www.ljll.math.upmc.fr/~blanc/).
+I am a maître de conférences (associate professor) at the [Laboratoire Jacques-Louis LIONS](https://www.ljll.math.upmc.fr/)(15-25-310) in Sorbonne Université (Paris, France). I was previously a postdoctoral researcher in TU Munich (Germany) with [Gero Friesecke](https://www-m7.ma.tum.de/bin/view/Analysis/GeroFriesecke) on the grant SFB/TRR 109 [Discretization in Geometry and Dynamics](https://www.discretization.de/). I did my PhD in Université Paris-Diderot under the supervision of [Xavier Blanc](https://www.ljll.math.upmc.fr/~blanc/).
 
 My research focuses on the numerical analysis of methods in molecular systems or materials.
 
