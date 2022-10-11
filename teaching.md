@@ -19,4 +19,4 @@
 **Sujets de TP et Jupyter notebooks**
 1. TP 1 ([sujet](TP1.pdf), [notebook](TP-1.ipynb), [notebook](TP-1-Section-2.ipynb))
 1. TP 2 ([sujet](TP2.pdf), [notebook](TP-2.ipynb))
-1. TP 3 ([sujet](TP3-burgers.pdf))
+1. TP 3 ([sujet](TP3-burgers.pdf), [notebook](TP3.ipynb))
