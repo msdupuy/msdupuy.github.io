@@ -9,7 +9,7 @@
 # Publications
 
 ## Preprints
-  * Mi-Song Dupuy, Kyle Thicke, [Dissociation limit of the H2 molecule in the particle-hole random phase approximation](https://hal.archives-ouvertes.fr/hal-03806571), preprint, 2022.
+  * Mi-Song Dupuy, Kyle Thicke, [Dissociation limit of the H2 molecule in phRPA-DFT](https://hal.archives-ouvertes.fr/hal-03806571), preprint, 2022.
 
 ## Published articles
   * Mi-Song Dupuy, Antoine Levitt, [Finite-size effects in response functions of molecular systems](https://hal.archives-ouvertes.fr/hal-03145143), accepted in _SMAI Journal of Computational Mathematics_, 2022.
