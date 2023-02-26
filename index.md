@@ -9,4 +9,4 @@ My research focuses on the numerical analysis of methods in molecular systems or
 
 You can reach me at firstname.lastname@sorbonne-universite.fr
 
-[Github](https://github.com/msdupuy), [ArXiv](https://arxiv.org/search/?query=dupuy%2C+mi-song&searchtype=all&source=header).
+[Github](https://github.com/msdupuy), [ArXiv](https://arxiv.org/a/dupuy_m_1.html).
