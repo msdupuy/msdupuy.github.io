@@ -60,7 +60,7 @@ The above formula is in practice approximated by taking a positive $\eta$  _and_
 
 ## The particle-hole random phase approximation in density functional theory
 
-The ground-state of a molecule is given by the lowest eigenvalue of the operator $H_N$ acting on $\bigwedge_{i=1}^N L^2(\mathbb{R}^3)$ with domain $H^2(\mathbb{R}^{3N})$
+The ground-state of a molecule is given by the lowest eigenvalue of the operator $H_N$ acting on $\bigwedge_{i=1}^N L^2(\mathbb{R}^3\times \mathbb{Z}_2)$ with domain $H^2(\mathbb{R}^{3N}\times \mathbb{Z}_2)$
 $$
   H_N(v_\mathrm{ext},w) =  \sum\limits_{i=1}^N \Big(-\frac{1}{2}\Delta_{r_i} + v_{\mathrm{ext}}(r_i) \Big) + \sum\limits_{1 \leq i < j \leq N} w(r_i-r_j),
 $$
@@ -76,6 +76,65 @@ phRPA, also simply called RPA, is one of the few ansatz for the correlation ener
 
 ### Publication
   * Mi-Song Dupuy, Kyle Thicke, [Dissociation limit of the H2 molecule in phRPA-DFT](https://hal.archives-ouvertes.fr/hal-03806571), preprint, 2022.
+
+## The random phase approximation of TDDFT
+
+TDDFT or Time Dependent Density Functional Theory is the time-dependent equivalent of DFT. It states that the evolution of the electronic density $\rho^\Psi$ of the many-body Schrödinger equation 
+$$
+  \left\lbrace
+  \begin{aligned}
+    \mathrm{i} \frac{\partial \Psi}{\partial t}(t) &= \Big( -\frac{1}{2} \Delta + \sum_{i=1}^N v(t,r_i) + \sum_{1 \leq i < j \leq N} w(r_i-r_j) \Big) \Psi(t) \\
+    \Psi(0) &= \Psi_0,
+  \end{aligned}
+  \right.
+$$
+where $\Psi_0$ is the ground-state of the rest Hamiltonian $H = -\frac{1}{2} \Delta + \sum_{i=1}^N v(0,r_i) + \sum_{1 \leq i < j \leq N} w(r_i-r_j)$, can be reproduced by the _noninteracting_ evolution
+$$
+  \left\lbrace
+  \begin{aligned}
+    \mathrm{i} \frac{\partial \Phi}{\partial t}(t) &= \Big( -\frac{1}{2} \Delta + \sum_{i=1}^N v_{\mathrm{rg}}[\lbrace \rho^{\Phi(s)} \rbrace_{s>0}](t,r_i) \Big) \Phi(t) \\
+    \Phi(0) &= \Phi_0,
+  \end{aligned}
+  \right.
+$$
+with a potential $v_\mathrm{rg}$ called the Runge-Gross potential.
+This is the _Runge-Gross theorem_ which has been proved for one-body potentials that are regular enough and analytical in time. 
+In particular, it is not known if it holds for Coulomb potentials.
+Nevertheless, assuming that the Runge-Gross theorem is valid, it gives a way to approximate the excited states of the rest Hamiltonian $H$ via the density-density linear response function (DDLRF).
+
+For a one-body observable $v_\mathcal{O}$ and a one-body perturbation $v(t,r) = v_\mathrm{ext}(r) + \varepsilon f(t) v_\mathcal{P}(r)$, the DDLRF is defined by 
+$$
+  \Big\langle \Psi(t), \sum_{i=1}^N v_\mathcal{O}(r_i) \Psi(t) \Big\rangle = \langle v_\mathcal{O}, \rho^{\Psi}(t) \rangle = \langle v_\mathcal{O}, \rho^{\Psi}(0) \rangle + \varepsilon \langle v_\mathcal{O}, \chi  v_\mathcal{P} \star f(t) \rangle + \mathcal{O}(\varepsilon^2).
+$$
+The Fourier transform of the DDLRF $\widehat{\chi}$ has poles that are located at an eigenvalue of $H-E_0$
+$$
+  \begin{aligned}
+  \langle v_\mathcal{O}, \widehat{\chi}(\omega)  v_\mathcal{P}  \rangle = \lim_{\eta \to 0_+} \Big\langle \Psi_0, & \sum_{i=1}^N v_\mathcal{O}(r_i) \Psi_0 \big( \omega + \mathrm{i} \eta -(H-E_0) \big)^{-1} \sum_{i=1}^N v_\mathcal{O}(r_i) \Psi_0 \Big\rangle \\
+  & \Big\langle \Psi_0, \sum_{i=1}^N v_\mathcal{O}(r_i) \Psi_0 \big( \omega + \mathrm{i} \eta +(H-E_0) \big)^{-1} \sum_{i=1}^N v_\mathcal{O}(r_i) \Psi_0 \Big\rangle.
+  \end{aligned}
+$$
+Assuming that the Runge-Gross theorem holds true, the DDLRF $\chi$ is the solution to the TDDFT Dyson equation
+$$
+  \widehat{\chi}(\omega) = \widehat{\chi}_0(\omega) + \widehat{\chi}_0(\omega) \widehat{f}_{\mathrm{xc}}(\omega) \widehat{\chi}(\omega),
+$$
+where $\chi_0$ is the noninteracting DDLRF of the frozen Hamiltonian 
+$$
+  H_0 = -\frac{1}{2} \Delta + \sum_{i=1}^N v_\mathrm{ext}(r_i) + \rho^{\Phi}(0) * \frac{1}{|\cdot|}(r_i) + v_{\mathrm{xc}}[\rho^{\Phi}(0)](r_i).
+$$
+$f_\mathrm{xc}$ is the _exchange-correlation_ kernel formally defined as 
+$f_\mathrm{xc}(rt,r't') = \frac{\delta v_\mathrm{rg}(rt)}{\delta \rho(r't')}.$
+The poles of the exact DDLRF can be directly inferred from those of the noninteracting DDLRF by solving the Dyson equation.
+Poles of $\widehat{\chi}(\omega)$ are displaced and this is called _pole shifting_.
+
+Since the Runge-Gross potential has no explicit expression, the exchange-correlation kernel has to be approximated. In the random phase approximation (RPA), it is simply given as
+$$
+  f_{\mathrm{xc}}^{(\mathrm{RPA})}(rt,r't') = \frac{\delta_{tt'}}{|r-r'|}. 
+$$
+
+In the paper, we show that the number of poles of the RPA DDLRF is the same as those of noninteracting DDLRF. Moreover, because of the positivity of the Hartree kernel $\frac{1}{|r-r'|}$, the poles of the noninteracting DDLRF are "forward" shifted, i.e. for all $k\geq 1$, $\omega_k^{(\mathrm{RPA})} \geq \omega_k$ where $(\omega_k^{(\mathrm{RPA})})$ and $(\omega_k)$ are the poles of the RPA and the noninteracting DDLRF. This is a mathematical explanation of the well known empirical fact that the noninteracting poles (i.e. the spectral gaps of the Kohn-Sham equations) underestimate the true transition frequencies.
+
+### Publication
+  * Thiago Carvalho Corso, Mi-Song Dupuy, Gero Friesecke, [The density-density response function in time-dependent density functional theory: mathematical foundations and pole shifting](https://arxiv.org/abs/2301.13070), preprint, 2023.
 ## Anderson acceleration
 
 Anderson acceleration, also known as DIIS (Direct Inversion of the Iterative Space) in quantum chemistry, aims to accelerate the convergence of fixed-point iteration $x_{k+1} = g(x_k)$. Such fixed-point problems are ubiquitous, and in quantum chemistry come from the Hartree-Fock or Kohn-Sham equations. DIIS is an extrapolation method where the next iterate is built using the knowledge of previous iterates. The DIIS sequence is given by
@@ -87,7 +146,7 @@ where $f$ is an _error_ function that locally vanishes only at the solution of t
 
 An important parameter in the efficiency of the method is the width $m$ of the history/number of iterates kept. Two variants are considered in our publication:
 * one where the history increases until the least-square problem is ill-conditioned. 
-* another where teh size of the history is controlled by the ratio of the residuals $\frac{\|f(x_i)\|}{\|f(x_j)\|}$ for $k-m\leq i,j \leq k$. The heuristic behind this variant is to keep the iterates that are the most relevant to build the next one.
+* another where the size of the history is controlled by the ratio of the residuals $\frac{\|f(x_i)\|}{\|f(x_j)\|}$ for $k-m\leq i,j \leq k$. The heuristic behind this variant is to keep the iterates that are the most relevant to build the next one.
 
 For both variants, we prove local linear convergence and superlinear convergence by tuning the DIIS numerical parameters.
 
