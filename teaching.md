@@ -9,6 +9,10 @@
 
 ## 2022-2023
 
+### Méthodes de tenseurs pour les problèmes en grande dimension
+
+**[Notes de cours sur les trains de tenseurs](TT_lectures.pdf)** (version du 21/03/2023)
+
 ### Méthodes numériques pour les EDP instationnaires
 
 **Sujets de TD**
