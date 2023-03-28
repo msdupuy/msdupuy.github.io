@@ -13,6 +13,8 @@
 
 **[Notes de cours sur les trains de tenseurs](TT_lectures.pdf)** (version du 21/03/2023)
 
+**[Devoir-maison à rendre avant le 10/04](DM_sujet.ipynb)** (version du 28/03/2023)
+
 ### Méthodes numériques pour les EDP instationnaires
 
 **Sujets de TD**
