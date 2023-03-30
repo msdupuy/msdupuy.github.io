@@ -11,7 +11,7 @@
 
 ### Méthodes de tenseurs pour les problèmes en grande dimension
 
-**[Notes de cours sur les trains de tenseurs](TT_lectures.pdf)** (version du 21/03/2023)
+**[Notes de cours sur les trains de tenseurs](TT_lectures.pdf)** (version du 30/03/2023)
 
 **[Notes manuscrites du 28/03](Cours_28_03.pdf)** 
 
