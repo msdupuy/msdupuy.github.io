@@ -12,7 +12,7 @@
 ### Méthodes numériques pour les EDP instationnaires
 
 **Sujets de TD**
-1. TD 1 ([sujet](TD1.pdf))
+1. TD 1 ([sujet](TD1_2023.pdf))
 
 **Sujets de TP et Jupyter notebooks**
 1. TP 1 ([pdf](TP1.pdf), [notebook exo 1](TP-1-ex1-sujet.ipynb), [notebook exo 2](TP-1-ex2-sujet.ipynb))
@@ -30,8 +30,8 @@
 ### Méthodes numériques pour les EDP instationnaires
 
 **Sujets de TD**
-1. TD 1 ([sujet](TD1.pdf))
-1. TD 2 ([sujet](TD2.pdf))
+1. TD 1 ([sujet](TD1_2022.pdf))
+1. TD 2 ([sujet](TD2_2022.pdf))
 1. TD 3 ([sujet](TD3_2022.pdf))
 
 **Sujets de TP et Jupyter notebooks**
