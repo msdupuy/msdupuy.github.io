@@ -15,7 +15,7 @@
 1. TD 1 ([sujet](TD1_2023.pdf))
 
 **Sujets de TP et Jupyter notebooks**
-1. TP 1 ([pdf](TP1.pdf), [notebook exo 1](TP-1-ex1-sujet.ipynb), [notebook exo 2](TP-1-ex2-sujet.ipynb))
+1. TP 1 ([pdf](TP1.pdf), [notebook exo 1](TP-1-ex1-sujet.ipynb), [notebook exo 2](TP-1-ex2-sujet.ipynb), [corrigé exo 1](TP-1-ex1-corrige.ipynb), [corrigé exo 2](TP-1-ex2-corrige.ipynb))
 
 ## 2022-2023
 
