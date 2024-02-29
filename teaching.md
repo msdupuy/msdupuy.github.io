@@ -11,7 +11,7 @@
 
 ### Méthodes de tenseurs pour les problèmes en grande dimension
 
-**[Notes de cours sur les trains de tenseurs](TT_lectures_2024.pdf)** (version du 22/02/2024)
+**[Notes de cours sur les trains de tenseurs](TT_lectures_2024.pdf)** (version du 29/02/2024)
 
 ### Méthodes numériques pour les EDP instationnaires
 
