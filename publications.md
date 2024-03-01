@@ -9,7 +9,7 @@
 # Publications
 
 ## Preprints
-  * Thiago Carvalho Corso, Mi-Song Dupuy, Gero Friesecke, [The density-density response function in time-dependent density functional theory: mathematical foundations and pole shifting](https://arxiv.org/abs/2301.13070), preprint, 2023.
+  * Thiago Carvalho Corso, Mi-Song Dupuy, Gero Friesecke, [The density-density response function in time-dependent density functional theory: mathematical foundations and pole shifting](https://arxiv.org/abs/2301.13070), accepted in _Annales de l'Institut Henri Poincaré C_, 2023.
   * Mi-Song Dupuy, Kyle Thicke, [Dissociation limit of the H2 molecule in phRPA-DFT](https://hal.archives-ouvertes.fr/hal-03806571), preprint, 2022.
 
 ## Published articles
