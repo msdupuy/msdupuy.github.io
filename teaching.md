@@ -7,6 +7,12 @@
 
 # Teaching 
 
+## 2024-2025
+
+### Méthodes de Krylov pour la résolution de systèmes linéaires
+
+**[Notes de cours](krylov.pdf)** (version du 13/10/2024)
+
 ## 2023-2024
 
 ### Méthodes de tenseurs pour les problèmes en grande dimension
