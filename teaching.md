@@ -11,7 +11,10 @@
 
 ### Méthodes de Krylov pour la résolution de systèmes linéaires
 
-**[Notes de cours](krylov.pdf)** (version du 13/10/2024)
+**[Notes de cours](krylov.pdf)** (version du 23/10/2024)
+
+### Transformée de Fourier quantique
+**[Notes de cours](QFT_M2.pdf)** (version du 27/11/2024)
 
 ## 2023-2024
 
