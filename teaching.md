@@ -9,6 +9,10 @@
 
 ## 2024-2025
 
+### Calcul scientifique pour les grands systèmes linéaires
+
+**[Notes de cours](poly.pdf)** (version du 9/12/2024)
+
 ### Méthodes de Krylov pour la résolution de systèmes linéaires
 
 **[Notes de cours](krylov.pdf)** (version du 23/10/2024)
