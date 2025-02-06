@@ -15,7 +15,7 @@
   * Mi-Song Dupuy, Kyle Thicke, [Dissociation limit of the H2 molecule in phRPA-DFT](https://hal.archives-ouvertes.fr/hal-03806571), 2022.
 
 ## Published articles
-  1. Thiago Carvalho Corso, Mi-Song Dupuy, Gero Friesecke, [The density-density response function in time-dependent density functional theory: mathematical foundations and pole shifting](https://arxiv.org/abs/2301.13070), _Annales de l'Institut Henri Poincaré C_, 2024.
+  1. Thiago Carvalho Corso, Mi-Song Dupuy, Gero Friesecke, [The density-density response function in time-dependent density functional theory: mathematical foundations and pole shifting](https://arxiv.org/abs/2301.13070), _Ann. Inst. H. Poincaré C Anal. Non Linéaire_, 42, no. 1, pp. 1–39, 2025.
   1. Mi-Song Dupuy, Antoine Levitt, [Finite-size effects in response functions of molecular systems](https://hal.archives-ouvertes.fr/hal-03145143), _SMAI Journal of Computational Mathematics_, 2022.
   1. Maxime Chupin, Mi-Song Dupuy, Guillaume Legendre, Eric Séré, [Convergence analysis of adaptive DIIS algorithms with application to electronic ground state calculations](https://www.esaim-m2an.org/articles/m2an/abs/2021/07/m2an200051/m2an200051.html), _ESIAM:M2AN_ 2021.
   1. Mi-Song Dupuy, [Variational projector-augmented wave method: a full-potential approach for electronic structure calculations in solid-state physics](https://www.sciencedirect.com/science/article/pii/S0021999121004058), _Journal of Computational Physics_, 2021.
