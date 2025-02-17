@@ -9,6 +9,10 @@
 
 ## 2024-2025
 
+### Méthodes de tenseurs pour les problèmes en grande dimension 
+
+**[Notes de cours sur les trains de tenseurs](TT_lectures_2025.pdf)** (version du 17/02/2025)
+
 ### Optimisation (agrégation option calcul scientifique)
 
 **[Notes de cours](poly_agreg_optim.pdf)** (version du 11/12/2024)
