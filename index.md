@@ -7,7 +7,7 @@ I am a maître de conférences (associate professor) at the [Laboratoire Jacques
 
 My research focuses on the analysis of models and numerical methods for molecular systems or materials.
 
-I also have worked on tensor trains for high-dimensional problems. Lecture notes on this topic are available [here](teaching/TT_lectures_2024.pdf).
+I also have worked on tensor trains for high-dimensional problems. Lecture notes on this topic are available [here](teaching/TT_lectures_2025.pdf).
 
 You can reach me at firstname.lastname@sorbonne-universite.fr
 
