@@ -15,7 +15,7 @@
 
 ### Optimisation (agrégation option calcul scientifique)
 
-**[Notes de cours](poly_agreg_optim.pdf)** (version du 11/12/2024)
+**[Notes de cours](poly_agreg_optim.pdf)** (version du 18/03/2025)
 
 **[Exercices](exo_optim.pdf)** (version du 11/12/2024)
 
