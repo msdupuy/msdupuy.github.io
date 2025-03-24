@@ -12,6 +12,7 @@
 ### Méthodes de tenseurs pour les problèmes en grande dimension 
 
 **[Notes de cours sur les trains de tenseurs](TT_lectures_2025.pdf)** (version du 05/03/2025)
+**[Devoir-maison sur les trains de tenseurs](DM_oscillateurs_couples_2025.pdf)** (version du 25/03/2025)
 
 ### Optimisation (agrégation option calcul scientifique)
 
