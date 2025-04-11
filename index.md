@@ -9,6 +9,8 @@ My research focuses on the analysis of models and numerical methods for molecula
 
 I also have worked on tensor trains for high-dimensional problems. Lecture notes on this topic are available [here](teaching/TT_lectures_2025.pdf).
 
+I am the co-organiser of the [GT NumerIQ](https://numeriq.pages.math.cnrs.fr/) which is a working group at the LJLL on quantum computing for scientific computing. I am also co-organising the [CEMRACS summer school](https://cemracs2025.math.cnrs.fr/en/) (15/07-22/08) on quantum computing.
+
 You can reach me at firstname.lastname@sorbonne-universite.fr
 
 [Github](https://github.com/msdupuy), [ArXiv](https://arxiv.org/a/dupuy_m_1.html).
