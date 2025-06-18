@@ -10,11 +10,11 @@
 
 ## Preprints
   * Geneviève Dusson, Mi-Song Dupuy, Ioanna-Maria Lygatsika, [A posteriori error estimates for Schrödinger operators discretized with linear combinations of atomic orbitals](https://arxiv.org/abs/2410.04943), 2024.
-  * Mi-Song Dupuy, Eloïse Letournel, Antoine Levitt, [Linear response and resonances in adiabatic time-dependent density functional theory](https://arxiv.org/abs/2408.00009), 2024.
   * Mi-Song Dupuy, Virginie Ehrlacher, Clément Guillot, [A space-time variational formulation for the many-body electronic Schrödinger evolution equation](https://hal.science/hal-04589758v1), 2024.
   * Mi-Song Dupuy, Kyle Thicke, [Dissociation limit of the H2 molecule in phRPA-DFT](https://hal.archives-ouvertes.fr/hal-03806571), 2022.
 
 ## Published articles
+  1. Mi-Song Dupuy, Eloïse Letournel, Antoine Levitt, [Linear response and resonances in adiabatic time-dependent density functional theory](https://arxiv.org/abs/2408.00009), accepted in _Annales Henri Poincaré_ 2025.
   1. Thiago Carvalho Corso, Mi-Song Dupuy, Gero Friesecke, [The density-density response function in time-dependent density functional theory: mathematical foundations and pole shifting](https://arxiv.org/abs/2301.13070), _Ann. Inst. H. Poincaré C Anal. Non Linéaire_, 42, no. 1, pp. 1–39, 2025.
   1. Mi-Song Dupuy, Antoine Levitt, [Finite-size effects in response functions of molecular systems](https://hal.archives-ouvertes.fr/hal-03145143), _SMAI Journal of Computational Mathematics_, 2022.
   1. Maxime Chupin, Mi-Song Dupuy, Guillaume Legendre, Eric Séré, [Convergence analysis of adaptive DIIS algorithms with application to electronic ground state calculations](https://www.esaim-m2an.org/articles/m2an/abs/2021/07/m2an200051/m2an200051.html), _ESIAM:M2AN_ 2021.
