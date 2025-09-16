@@ -9,6 +9,7 @@
 # Publications
 
 ## Preprints
+  * Mi-Song Dupuy, Virginie Ehrlacher, Clément Guillot, [Low-complexity approximations with least-squares formulation of the time-dependent Schrödinger equation](https://hal.science/hal-05261132), 2025.
   * Mi-Song Dupuy, Virginie Ehrlacher, Clément Guillot, [A space-time variational formulation for the many-body electronic Schrödinger evolution equation](https://hal.science/hal-04589758v1), 2024.
   * Mi-Song Dupuy, Kyle Thicke, [Dissociation limit of the H2 molecule in phRPA-DFT](https://hal.archives-ouvertes.fr/hal-03806571), 2022.
 
