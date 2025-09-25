@@ -11,7 +11,7 @@
 
 ### Méthodes de Krylov pour la résolution de systèmes linéaires
 
-**[Notes de cours](krylov.pdf)** (version du 23/10/2024)
+**[Notes de cours](poly.pdf)** (version du 25/09/2025, le chapitre sur les méthodes de Krylov est au chapitre 4 et des rappels sur QR dans le chapitre 1)
 
 **[Feuille de TD](td_krylov_m2.pdf)** (version du 17/09/2025)
 
