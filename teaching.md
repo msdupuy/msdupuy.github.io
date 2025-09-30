@@ -13,6 +13,8 @@
 
 **[Notes de cours](quantum_computing.pdf)** (version du 30/09/2025)
 
+**[Exercices](quantum_exercises.pdf)** (version du 30/09/2025)
+
 ### Méthodes de Krylov pour la résolution de systèmes linéaires
 
 **[Notes de cours](poly.pdf)** (version du 25/09/2025, le chapitre sur les méthodes de Krylov est au chapitre 4 et des rappels sur QR dans le chapitre 1)
