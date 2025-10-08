@@ -15,7 +15,7 @@
 
 **TP** 
  
-- [tutoriel MyQLM](tuto.ipynb)
+- [tutoriel MyQLM](tuto_myqlm.ipynb)
 - [test Hadamard](hadamard_test_sujet.ipynb)
 - [Simon problem](simon_problem.ipynb)
 
