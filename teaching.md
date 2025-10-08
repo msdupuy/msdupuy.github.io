@@ -13,6 +13,12 @@
 
 **[Notes de cours](quantum_computing.pdf)** (version du 07/10/2025)
 
+**TP** 
+ 
+- [tutoriel MyQLM](tuto.ipynb)
+- [test Hadamard](hadamard_test_sujet.ipynb)
+- [Simon problem](simon_problem.ipynb)
+
 **[Exercices](quantum_exercises.pdf)** (version du 30/09/2025)
 
 ### Méthodes de Krylov pour la résolution de systèmes linéaires
