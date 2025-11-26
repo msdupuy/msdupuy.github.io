@@ -9,7 +9,9 @@ My research focuses on the analysis of models and numerical methods for molecula
 
 I also have worked on tensor trains for high-dimensional problems. Lecture notes on this topic are available [here](teaching/TT_lectures_2025.pdf).
 
-I am the co-organiser of the [GT NumerIQ](https://numeriq.pages.math.cnrs.fr/) which is a working group at the LJLL on quantum computing for scientific computing. I am also co-organising the [CEMRACS summer school](https://cemracs2025.math.cnrs.fr/en/) (15/07-22/08) on quantum computing.
+**Open PhD position:** I have an open PhD position supervised by [Damiano Lombardi](https://team.inria.fr/commedia/lombardi/) and me on the development and analysis of a nonsymmetric DMRG with applications in quantum chemistry. More information available [here](research/offre.pdf).
+
+I am the co-organiser of the [GT NumerIQ](https://numeriq.pages.math.cnrs.fr/) which is a working group at the LJLL on quantum computing for scientific computing. I co-organised the [CEMRACS summer school](https://cemracs2025.math.cnrs.fr/en/) (15/07/25-22/08/25) on quantum computing.
 
 You can reach me at firstname.lastname@sorbonne-universite.fr
 
