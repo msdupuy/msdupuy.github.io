@@ -29,6 +29,10 @@
 
 **[Feuille de TP](krylov_m2.pdf)** (version du 23/09/2025)
 
+### Agrégation externe de mathématiques : option calcul scientifique
+
+[Lien vers le site internet](https://mdupuy.pages.math.cnrs.fr/agreg-option-B-website/)
+
 ## 2024-2025
 
 ### Méthodes de tenseurs pour les problèmes en grande dimension 
