@@ -9,6 +9,10 @@
 
 ## 2025-2026
 
+### Méthodes de tenseurs pour les problèmes en grande dimension 
+
+**[Notes de cours sur les trains de tenseurs](TT_lectures_2026.pdf)** (version du 10/03/2026)
+
 ### Bases du calcul quantique 
 
 **[Notes de cours](quantum_computing.pdf)** (version du 07/10/2025)
