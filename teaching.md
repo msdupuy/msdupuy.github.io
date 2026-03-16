@@ -13,6 +13,8 @@
 
 **[Notes de cours sur les trains de tenseurs](TT_lectures_2026.pdf)** (version du 10/03/2026)
 
+**[TP/DM](DM_QTT_sujet.ipynb)** (version du 16/03/2026)
+
 ### Bases du calcul quantique 
 
 **[Notes de cours](quantum_computing.pdf)** (version du 07/10/2025)
