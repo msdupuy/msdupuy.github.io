@@ -9,6 +9,7 @@
 # Publications
 
 ## Preprints
+  * Laurent Boudin, Igor Chollet, Mi-Song Dupuy, Cindy Guichard, Michel Fabrice Serret, Joachim Tomasi, Fabien Vergnet, Hang Zou, [Trotterization scheme and Pauli decomposition for the two-body Schrödinger equation](https://hal.science/hal-05623753), 2026.
   * Paul Cazeaux, Mi-Song Dupuy, Rodrigo Figueroa Justiniano, [Linear-scaling Tensor Train Sketching](https://arxiv.org/pdf/2603.11009), 2026.
   * Mi-Song Dupuy, Virginie Ehrlacher, Clément Guillot, [Low-complexity approximations with least-squares formulation of the time-dependent Schrödinger equation](https://hal.science/hal-05261132), 2025.
   * Mi-Song Dupuy, Virginie Ehrlacher, Clément Guillot, [A space-time variational formulation for the many-body electronic Schrödinger evolution equation](https://hal.science/hal-04589758v1), 2024.
