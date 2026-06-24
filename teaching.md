@@ -9,6 +9,10 @@
 
 ## 2025-2026
 
+### ISPTC Aussois summer school
+
+**[Lecture notes on DMRG](notes_Aussois_2026.pdf)** (version du 24/06/2026)
+
 ### Méthodes de tenseurs pour les problèmes en grande dimension 
 
 **[Notes de cours sur les trains de tenseurs](TT_lectures_2026.pdf)** (version du 10/03/2026)
