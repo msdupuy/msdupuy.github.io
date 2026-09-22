@@ -31,7 +31,7 @@
     <![CDATA[  Teaching  ]]>
   </description>  
     
-  <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>  
+  <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>  
   
   
   <atom:author>
@@ -51,6 +51,25 @@
   </description>  
     
   <pubDate>Sun, 18 Apr 2021 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Mi-Song Dupuy</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
+    <![CDATA[  IA et Maths  ]]>
+  </title>
+  <link> https://msdupuy.github.io/mathAI/index.html </link>
+  <guid> https://msdupuy.github.io/mathAI/index.html </guid>
+  <description>
+    <![CDATA[  IA et Maths  ]]>
+  </description>  
+    
+  <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>  
   
   
   <atom:author>
