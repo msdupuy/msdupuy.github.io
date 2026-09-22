@@ -19,7 +19,9 @@ Progrès fulgurants des six derniers mois, avec des LLM qui ne produisent plus u
 
 Nombres de prépublications sur Arxiv dans les catégories "Numerical Analysis" (math.NA) et "Analysis of PDEs" (math.AP)
 
-![Nombre de prépublications sur Arxiv par mois (fin, transparent), moyenné sur 5 mois (épais)](https://raw.githubusercontent.com/msdupuy/arxiv-preprint-counts/refs/heads/main/monthly.png)
+@@img-large
+![Nombre de prépublications sur Arxiv par mois (fin, transparent), moyenné sur 5 mois (épais)](monthly.jpg)
+@@
 
 # Ressources 
 
