@@ -18,7 +18,7 @@
 **TP** 
  
 - [tutoriel MyQLM](tuto_myqlm.ipynb)
-- [test Hadamard](hadamard_test_sujet.ipynb)
+- [Notebook test Hadamard](hadamard_test_sujet.ipynb), [Notebook corrigé test Hadamard](hadamard_test_solution.ipynb)
 
 ## 2025-2026
 
