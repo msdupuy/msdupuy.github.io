@@ -13,11 +13,12 @@
 
 **[Notes de cours](quantum_computing.pdf)** (version du 14/10/2026)
 
-**[Exercices](quantum_exercises.pdf)** (version du 30/09/2025)
+**[Exercices](quantum_exercises.pdf)** (version du 14/10/2026)
 
 **TP** 
  
 - [tutoriel MyQLM](tuto_myqlm.ipynb)
+- [test Hadamard](hadamard_test_sujet.ipynb)
 
 ## 2025-2026
 
