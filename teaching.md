@@ -11,7 +11,7 @@
 
 ### Bases du calcul quantique 
 
-**[Notes de cours](quantum_computing.pdf)** (version du 07/10/2025)
+**[Notes de cours](quantum_computing.pdf)** (version du 14/10/2026)
 
 **[Exercices](quantum_exercises.pdf)** (version du 30/09/2025)
 
