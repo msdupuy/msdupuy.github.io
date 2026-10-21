@@ -11,7 +11,7 @@
 
 ### Bases du calcul quantique 
 
-**[Notes de cours](quantum_computing.pdf)** (version du 14/10/2026)
+**[Notes de cours](quantum_computing.pdf)** (version du 21/10/2026)
 
 **[Exercices](quantum_exercises.pdf)** (version du 14/10/2026)
 
@@ -19,6 +19,7 @@
  
 - [tutoriel MyQLM](tuto_myqlm.ipynb)
 - [Notebook test Hadamard](hadamard_test_sujet.ipynb), [Notebook corrigé test Hadamard](hadamard_test_solution.ipynb)
+- [Notebook simulation Schrödinger](quantum_simulation_schrodinger.ipynb)
 
 ## 2025-2026
 
